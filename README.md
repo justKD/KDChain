@@ -7,7 +7,7 @@ Building on the pipe concept, `KDChain` implements functional composition for as
 `KDChain` uses my [`KDWorker`](https://github.com/justKD/KDWorker/tree/main/) to run the pipe
 on a background thread. As such, functions passed to `KDChain` need to be web worker friendly.
 
-[Fork on CodeSandbox](https://codesandbox.io/s/vibrant-austin-74req)
+[Fork on CodeSandbox](https://codesandbox.io/s/kdchain-3zmty?file=/README.md)
 
 ## Install
 
