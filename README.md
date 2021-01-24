@@ -65,8 +65,8 @@ const blocker = (num) => {
 };
 
 /**
-* Run an example using `KDChain` to compose functions asynchronously.
-*/
+ * Run an example using `KDChain` to compose functions asynchronously.
+ */
 const chainExample = () => {
   console.log('chain example');
 
